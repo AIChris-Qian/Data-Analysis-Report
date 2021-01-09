@@ -76,11 +76,11 @@
 
 关于**数据源**，请参考`某游戏数据源`。
 
-    / irp-acse-cq419 / Code / Documentation 
+    / Data-Analysis-Report / 某游戏数据源.xlsx
 
 关于**如何使用SQL处理数据**，请参考`使用SQL`。
 
-    / irp-acse-cq419 / Code / Documentation 
+    / Data-Analysis-Report / 使用SQL.pdf
     
 关于**数据处理代码**以及**可视化图表**，请参考`SQL代码`和`Excel表格`。
 
