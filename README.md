@@ -84,9 +84,9 @@
     
 关于**数据处理代码**以及**可视化图表**，请参考`SQL代码`和`Excel表格`。
 
-    / irp-acse-cq419 / Code / HTML Testing
-    / irp-acse-cq419 / Code / Notebook Testing
-
+    / Data-Analysis-Report / SQL代码
+    / Data-Analysis-Report / Excel表格
+    
 关于**数据分析汇总**，请参考`数据分析报告`。
    
-    / irp-acse-cq419 / Code / HTML Testing
+    / Data-Analysis-Report / 数据分析报告.ppt
