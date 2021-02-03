@@ -125,11 +125,14 @@
 
 关于**数据源**，请参考`某游戏数据源`。
 
-    / Data-Analysis-Report / 某游戏数据源.xlsx
+[点击进入](https://github.com/AIChris-Qian/Data-Analysis-Report/blob/main/%E6%9F%90%E6%B8%B8%E6%88%8F%E6%95%B0%E6%8D%AE%E6%BA%90.xlsx)
+`/ Data-Analysis-Report / 某游戏数据源.xlsx`
 
 关于**如何使用SQL处理数据**，请参考`使用SQL`。
 
-    / Data-Analysis-Report / 使用SQL.pdf
+[/ Data-Analysis-Report / 使用SQL.pdf](https://github.com/AIChris-Qian/Data-Analysis-Report/blob/main/%E4%BD%BF%E7%94%A8SQL.pdf)
+
+    
     
 关于**数据处理代码**以及**可视化图表**，请参考`SQL代码`和`Excel表格`。
 
