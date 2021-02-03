@@ -125,20 +125,23 @@
 
 关于**数据源**，请参考`某游戏数据源`。
 
-[点击进入](https://github.com/AIChris-Qian/Data-Analysis-Report/blob/main/%E6%9F%90%E6%B8%B8%E6%88%8F%E6%95%B0%E6%8D%AE%E6%BA%90.xlsx)
-`/ Data-Analysis-Report / 某游戏数据源.xlsx`
+[点击进入 - 某游戏数据源](https://github.com/AIChris-Qian/Data-Analysis-Report/blob/main/%E6%9F%90%E6%B8%B8%E6%88%8F%E6%95%B0%E6%8D%AE%E6%BA%90.xlsx)
+
 
 关于**如何使用SQL处理数据**，请参考`使用SQL`。
 
-[/ Data-Analysis-Report / 使用SQL.pdf](https://github.com/AIChris-Qian/Data-Analysis-Report/blob/main/%E4%BD%BF%E7%94%A8SQL.pdf)
+[点击进入 - 使用SQL](https://github.com/AIChris-Qian/Data-Analysis-Report/blob/main/%E4%BD%BF%E7%94%A8SQL.pdf)
 
-    
-    
+      
 关于**数据处理代码**以及**可视化图表**，请参考`SQL代码`和`Excel表格`。
 
-    / Data-Analysis-Report / SQL代码
-    / Data-Analysis-Report / Excel表格
-    
+[点击进入 - SQL代码](https://github.com/AIChris-Qian/Data-Analysis-Report/tree/main/SQL%E4%BB%A3%E7%A0%81)
+
+[点击进入 - Excel表格](https://github.com/AIChris-Qian/Data-Analysis-Report/tree/main/Excel%20%E8%A1%A8%E6%A0%BC)
+
+
 关于**数据分析汇总**，请参考`数据分析报告`。
-   
-    / Data-Analysis-Report / 数据分析报告.pdf
+ 
+ [点击进入 - 数据分析报告](https://github.com/AIChris-Qian/Data-Analysis-Report/blob/main/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A.pdf)
+ 
+
